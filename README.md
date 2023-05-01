@@ -16,9 +16,5 @@
 # ✨ Mis Intereses:
 👩‍💻 Desarrollo software
 <br>
-🧾 Tester
-<br>
 ⌨️ IT
-<br>
-🔐 Seguridad Informática
-<br>
+
